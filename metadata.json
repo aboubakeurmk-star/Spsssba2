@@ -1,0 +1,6 @@
+{
+  "name": "SPSS SBA - إدارة الخدمات الأكاديمية والإحصائية",
+  "description": "تطبيق متكامل لإدارة نشاط SPSS SBA: العملاء، الطلبات، المدفوعات، وصولات الدفع، المصاريف، والتقارير المالية المصمم للهاتف أولاً.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
